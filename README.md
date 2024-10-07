@@ -1,5 +1,5 @@
 # CARCARE
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-EEB Project Team%20-red)
 ---
 ## SCREENSHOTS
 ### Home Page
